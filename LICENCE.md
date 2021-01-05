@@ -1,0 +1,3 @@
+LICENCE
+
+Some licencing rules
